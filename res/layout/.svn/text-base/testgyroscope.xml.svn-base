@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_title"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/stop_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="静止" />
+
+        <Button
+            android:id="@+id/shake_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="摆动" />
+
+        <Button
+            android:id="@+id/move_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="走动" />
+
+        <TextView
+            android:layout_width="0sp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="室内建筑资源"
+            android:textColor="@color/blue" />
+
+        <Button
+            android:id="@+id/btn_fun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/icon_location" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/log_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:stackFromBottom="true" />
+
+</LinearLayout>

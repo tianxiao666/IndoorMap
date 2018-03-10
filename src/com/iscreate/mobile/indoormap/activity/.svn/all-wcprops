@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/srcsvn/indoor/!svn/ver/438/app/src/com/iscreate/mobile/indoormap/activity
+END
+BaiduMapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/indoor/!svn/ver/419/app/src/com/iscreate/mobile/indoormap/activity/BaiduMapActivity.java
+END
+stepDetecterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/indoor/!svn/ver/304/app/src/com/iscreate/mobile/indoormap/activity/stepDetecterActivity.java
+END
+StartLoadingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/indoor/!svn/ver/304/app/src/com/iscreate/mobile/indoormap/activity/StartLoadingActivity.java
+END
+BDMapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/srcsvn/indoor/!svn/ver/375/app/src/com/iscreate/mobile/indoormap/activity/BDMapActivity.java
+END
+mainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/srcsvn/indoor/!svn/ver/419/app/src/com/iscreate/mobile/indoormap/activity/mainActivity.java
+END
+ViewSignalDataActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/srcsvn/indoor/!svn/ver/438/app/src/com/iscreate/mobile/indoormap/activity/ViewSignalDataActivity.java
+END
+testGyroscopeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/indoor/!svn/ver/282/app/src/com/iscreate/mobile/indoormap/activity/testGyroscopeActivity.java
+END
+cellDetecterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/indoor/!svn/ver/375/app/src/com/iscreate/mobile/indoormap/activity/cellDetecterActivity.java
+END
+testStepCountActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/indoor/!svn/ver/284/app/src/com/iscreate/mobile/indoormap/activity/testStepCountActivity.java
+END
+LogLifecircleActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/indoor/!svn/ver/304/app/src/com/iscreate/mobile/indoormap/activity/LogLifecircleActivity.java
+END
+stepDetecterByNetActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/srcsvn/indoor/!svn/ver/284/app/src/com/iscreate/mobile/indoormap/activity/stepDetecterByNetActivity.java
+END
+IndoorMapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/srcsvn/indoor/!svn/ver/438/app/src/com/iscreate/mobile/indoormap/activity/IndoorMapActivity.java
+END
+SearchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/srcsvn/indoor/!svn/ver/310/app/src/com/iscreate/mobile/indoormap/activity/SearchActivity.java
+END
+testWifiActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/indoor/!svn/ver/375/app/src/com/iscreate/mobile/indoormap/activity/testWifiActivity.java
+END
+wifiDetecterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/srcsvn/indoor/!svn/ver/310/app/src/com/iscreate/mobile/indoormap/activity/wifiDetecterActivity.java
+END

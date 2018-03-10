@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pop_bg_black"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20sp"
+        android:background="@drawable/hrefselecter"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0sp"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_AP"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="AP" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_POI"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="POI" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_OUT_W"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="外墙" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_TOILE"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="卫生间" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_ELEVA"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="电梯" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_STAIR"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="楼梯" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_ROUTE"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="路径" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_BUSSI"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="商家" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_IdealSignal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="理想AP" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_ReckonSignal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="估算AP" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_BaseStationIdealSignal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="理想室分" >
+                    </CheckBox>
+
+                    <CheckBox
+                        android:id="@+id/cb_layer_BaseStationReckonSignal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="估算室分" >
+                    </CheckBox>
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/bt_confirm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="  确定  " />
+
+            <Button
+                android:id="@+id/bt_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="  取消  " />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

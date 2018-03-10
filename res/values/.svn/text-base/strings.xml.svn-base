@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">室内地图</string>
+    <string name="collect_data">采集数据</string>
+    <string name="view_data">查看数据</string>
+	<string name="choose_window_title">选择操作项</string>
+	<string name="signal_chart_title">信号强度曲线图</string>
+	<string name="signal_point_label">点击坐标:</string>
+	<string name="signal_point_X">X:</string>
+	<string name="signal_point_Y">Y:</string>
+	<string name="date_choose_label">展示时间:</string>
+	<string name="date_begin_label">起始时间:</string>
+	<string name="date_end_label">截止时间:</string>
+	<string name="date_picker_btn_label">选择时间</string>
+	<string name="do_sure">确定</string>
+	<string name="do_cancel">取消</string>
+	<string name="no_tip_text">下次不再提示</string>
+	<string name="wifi_label">wifi</string>
+	<string name="station_label">基站</string>
+	<string name="no_chart_label">无采集数据</string>
+	<string name="opera_label">选择操作:</string>
+</resources>

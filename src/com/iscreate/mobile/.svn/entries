@@ -1,0 +1,49 @@
+10
+
+dir
+439
+http://svn.hgicreate.com/srcsvn/indoor/app/src/com/iscreate/mobile
+http://svn.hgicreate.com/srcsvn/indoor
+
+
+
+2017-03-02T03:19:07.582872Z
+438
+lu.sj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+19b6460e-13a2-11e3-9178-4142410dca1f
+
+baidu
+dir
+
+config
+dir
+
+indoormap
+dir
+
+service
+dir
+
+svg
+dir
+
+utils
+dir
+
+widget
+dir
+

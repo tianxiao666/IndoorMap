@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/srcsvn/indoor/!svn/ver/428/app/src/com/iscreate/mobile/utils
+END
+DownloadApkAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/srcsvn/indoor/!svn/ver/290/app/src/com/iscreate/mobile/utils/DownloadApkAsyncTask.java
+END
+AnalyseWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/indoor/!svn/ver/269/app/src/com/iscreate/mobile/utils/AnalyseWave.java
+END
+StepDetecter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/indoor/!svn/ver/269/app/src/com/iscreate/mobile/utils/StepDetecter.java
+END
+MathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/srcsvn/indoor/!svn/ver/371/app/src/com/iscreate/mobile/utils/MathUtil.java
+END
+SignalBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/indoor/!svn/ver/424/app/src/com/iscreate/mobile/utils/SignalBean.java
+END
+Signal.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/indoor/!svn/ver/374/app/src/com/iscreate/mobile/utils/Signal.java
+END
+ApkUpdateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/indoor/!svn/ver/269/app/src/com/iscreate/mobile/utils/ApkUpdateUtil.java
+END
+utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/srcsvn/indoor/!svn/ver/428/app/src/com/iscreate/mobile/utils/utils.java
+END
